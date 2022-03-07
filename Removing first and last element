@@ -1,0 +1,4 @@
+#assignment-2
+o = "Aditya Degree"
+
+print(o[1:-1])
